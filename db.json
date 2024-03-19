@@ -1,0 +1,41 @@
+{
+  "productList": [
+    {
+      "productName": "iPhone 12 Pro Max",
+      "category": "mobile",
+      "freshness": "Brand New",
+      "price": 1200,
+      "comment": "Not for sale",
+      "date": "2024-02-29T18:00:00.000Z",
+      "id": 1
+    },
+    {
+      "productName": "Oneplus 9 Pro",
+      "category": "mobile",
+      "freshness": "Second Hand",
+      "price": 400,
+      "comment": "For Sale 2",
+      "date": "2024-03-01T18:00:00.000Z",
+      "id": 2
+    },
+    {
+      "productName": "Nokia 12",
+      "category": "mobile",
+      "freshness": "Brand New",
+      "price": 222,
+      "comment": "Test",
+      "date": "2024-02-29T18:00:00.000Z",
+      "id": 3
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
